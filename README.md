@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20,24,30&text=Hey,%20I'm%20ALLUOFUYO%20🚀&fontSize=52&fontAlignY=38&desc=C%2B%2B%20Developer%20%7C%20Navigation%20Algorithms%20%7C%20Autonomous%20Driving&descSize=18&descAlignY=58&animation=twinkling" />
 
 <!-- ⌨️ Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+Reliable+C%2B%2B+Systems+⚙️;Navigation+Algorithms+🧭+%2B+Autonomous+Driving+🚗;Engineering+Software+for+Real-world+Problems+🏗️;Code+Clean.+Run+Fast.+Ship+Stable.+🚀" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building%2BReliable%2BCPP%2BSystems%2B%E2%9A%99%EF%B8%8F;Navigation%2BAlgorithms%2B%F0%9F%A7%AD;Autonomous%2BDriving%2B%F0%9F%9A%97;Engineering%2BSoftware%2Bfor%2BReal-world%2BProblems%2B%F0%9F%8F%97%EF%B8%8F;Code%2BClean.%2BRun%2BFast.%2BShip%2BStable.%2B%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
