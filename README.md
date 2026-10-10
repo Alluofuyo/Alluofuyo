@@ -4,10 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20,24,30&text=Hey,%20I'm%20ALLUOFUYO%20🚀&fontSize=52&fontAlignY=38&desc=C%2B%2B%20Developer%20%7C%20Navigation%20Algorithms%20%7C%20Autonomous%20Driving&descSize=18&descAlignY=58&animation=twinkling" />
 
 <!-- ⌨️ Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building%2BReliable%2BCPP%2BSystems%2B%E2%9A%99%EF%B8%8F;Navigation%2BAlgorithms%2B%F0%9F%A7%AD;Autonomous%2BDriving%2B%F0%9F%9A%97;Engineering%2BSoftware%2Bfor%2BReal-world%2BProblems%2B%F0%9F%8F%97%EF%B8%8F;Code%2BClean.%2BRun%2BFast.%2BShip%2BStable.%2B%F0%9F%9A%80" alt="Typing SVG" /></a>
-
-<br/>
-
+</br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=750&lines=%E2%9A%99%EF%B8%8F+Building+Reliable+CPP+Systems;%F0%9F%A7%AD+Navigation+Algorithms;%F0%9F%9A%97+Autonomous+Driving;%F0%9F%8F%97%EF%B8%8F+Engineering+Software+for+Real-world+Problems;%F0%9F%9A%80+Code+Clean.+Run+Fast.+Ship+Stable." alt="Typing SVG" />
+</br>
 <!-- 🧩 Badges -->
 <img src="https://komarev.com/ghpvc/?username=Alluofuyo&style=for-the-badge&color=00D9FF" />
 <img src="https://img.shields.io/badge/Focus-C%2B%2B%20Engineering-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -36,14 +35,6 @@ A C++ developer who enjoys building **fast, stable and engineering-oriented soft
 ---
 
 ## 🎨 AI Banner | 我的技术宇宙
-
-<!-- 
-建议生成一张 AI 图片后放到仓库：
-assets/ai-banner.png
-
-AI Image Prompt:
-Futuristic C++ developer profile banner, neon blue and purple cyberpunk style, autonomous car driving through a holographic city map, navigation path planning lines, structural CAD wireframe model, floating C++ code particles, engineering software dashboard, cinematic lighting, high detail, 16:9, no text.
--->
 
 <p align="center">
   <img src="./assets/ai-banner.png" width="88%" alt="AI generated banner: C++ Navigation Autonomous Driving Engineering Software" />
@@ -158,5 +149,12 @@ public:
 ---
 
 <div align="center"> 
-  <a href="https://github.com/Alluofuyo/repo-name-1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=repo-name-1&theme=tokyonight&hide_border=true" /> </a>   <a href="https://github.com/YOUR_GITHUB_USERNAME/repo-name-2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=repo-name-2&theme=tokyonight&hide_border=true" /> </a>   <a href="https://github.com/YOUR_GITHUB_USERNAME/repo-name-3"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=repo-name-3&theme=tokyonight&hide_border=true" /> </a> </div>
+  <a href="https://github.com/Alluofuyo/exit-locale-browser-plugin"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alluofuyo&repo=exit-locale-browser-plugin&theme=tokyonight&hide_border=true" /></a>
+  </br>
+  <a href="https://github.com/Alluofuyo/cordcloud_checkin"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alluofuyo&repo=cordcloud_checkin&theme=tokyonight&hide_border=true" /> </a>   
+  </br>
+  <a href="https://github.com/Alluofuyo/cdda_updater"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alluofuyo&repo=cdda_updater&theme=tokyonight&hide_border=true" /> </a> 
+  </br>
+</div>
+  
 ---
