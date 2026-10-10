@@ -8,7 +8,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=750&lines=%E2%9A%99%EF%B8%8F+Building+Reliable+CPP+Systems;%F0%9F%A7%AD+Navigation+Algorithms;%F0%9F%9A%97+Autonomous+Driving;%F0%9F%8F%97%EF%B8%8F+Engineering+Software+for+Real-world+Problems;%F0%9F%9A%80+Code+Clean.+Run+Fast.+Ship+Stable." alt="Typing SVG" />
 </br>
 <!-- 🧩 Badges -->
-<img src="https://komarev.com/ghpvc/?username=Alluofuyo&style=for-the-badge&color=00D9FF" />
 <img src="https://img.shields.io/badge/Focus-C%2B%2B%20Engineering-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Navigation-Algorithms-00C853?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Autonomous-Driving-7A5CFF?style=for-the-badge" />
